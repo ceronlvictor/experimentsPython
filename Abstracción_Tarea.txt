@@ -1,0 +1,6 @@
+Abstracción de Aprender: 
+
+Clase:  Aprendizaje efectivo 
+Instancia: Tomar clases, Leer, estudiar, hacer_apuntes, practicar
+Atributos: 
+MEtodos: Clases en Platzi, Preguntar con conocidos,  explicar a alguien, Responder preguntas, Realizar aportes, presentar examen. 
